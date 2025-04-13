@@ -6,12 +6,6 @@ This is ideal for DevOps learners, cloud engineers without active cloud accounts
 
 ---
 
-## 🔗 Project Links
-- **GitHub Repo**: _[Add your GitHub URL here]_ 
-- **Blog Post/LinkedIn Article**: _Coming Soon_
-
----
-
 ## 📦 Features
 
 ### ✅ VM Metrics Collection
