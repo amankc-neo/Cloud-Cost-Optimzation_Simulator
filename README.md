@@ -93,22 +93,11 @@ python dashboard/cost_dashboard.py
 bash scripts/run_every_minute.sh
 bash scripts/cleanup_old_logs.sh
 ```
-
+### 7. Open to
+Use it, modify it, share it.
 ---
 
-## 🌍 Demo (Screenshots)
-*Add screenshots of CLI output and matplotlib charts here.*
+## 🙌 Feedback
+Everyone's welcome! For suggestions, feel free to connect on [LinkedIn](https://linkedin.com/in/amankc-neo)
 
----
 
-## 📘 License
-MIT License. Use it, modify it, share it.
-
----
-
-## 🙌 Contributions & Feedback
-PRs welcome! For suggestions or questions, feel free to open an issue or connect on [LinkedIn](https://linkedin.com/in/amankc-neo)
-
----
-
-**Made with 💡 by Aman Choudhary**
