@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-04-13T09:54:47.822137",
+    "cpu_percent": 1.0,
+    "memory": {
+      "total": 4106027008,
+      "available": 2968449024,
+      "percent": 27.7,
+      "used": 845381632,
+      "free": 1591627776,
+      "active": 1371947008,
+      "inactive": 825245696,
+      "buffers": 72339456,
+      "cached": 1596678144,
+      "shared": 38854656,
+      "slab": 205287424
+    },
+    "disk": {
+      "total": 25709252608,
+      "used": 12979687424,
+      "free": 11397664768,
+      "percent": 53.2
+    },
+    "network": {
+      "bytes_sent": 878496,
+      "bytes_recv": 79466327,
+      "packets_sent": 13394,
+      "packets_recv": 54346,
+      "errin": 0,
+      "errout": 0,
+      "dropin": 0,
+      "dropout": 0
+    }
+  }
+]
